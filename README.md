@@ -1,4 +1,9 @@
 # AI_impact_in_employment_NLP
+
+### Goal
+Using NLP to identify what types of tasks and jobs are most likely to see the biggest impact from AI by extracting meaningful insights from unstructured text. 
+Providing actionable recommendations on what can be done with AI to automate the jobs and / orimprove employee productivity.   
+
 ### Data Overview:
 • 199600+ articles from four years, with the majority from 2023  
 • covering 10 main topics*, with ‘AI’, ‘Data’, ‘news’, ‘new’, ‘market’ as most salient tokens  
